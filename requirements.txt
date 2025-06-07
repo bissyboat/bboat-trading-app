@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn
+pandas
+numpy
+matplotlib
+yfinance
+forex-python
+plotly
+streamlit
+backtrader
